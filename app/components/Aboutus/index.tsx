@@ -62,7 +62,7 @@ const Card = ({ data }: { data: datatype }) => {
     const [expanded, setExpanded] = useState(false);
 
     return (
-        <div className="hover:bg-navyblue bg-white rounded-3xl p-6 shadow-xl group flex flex-col items-center space-y-5 h-full min-h-[400px] max-h-[450px]">
+        <div className="hover:bg-black bg-white rounded-3xl p-6 shadow-xl group flex flex-col items-center space-y-5 h-full min-h-[400px] max-h-[450px]">
             <h4 className="text-4xl font-semibold text-black group-hover:text-white text-center">
                 {data.heading}
             </h4>

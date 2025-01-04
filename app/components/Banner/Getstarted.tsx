@@ -49,7 +49,7 @@ const Getstartedform = () => {
                     </button>
                 </div> */}
                 <div className='my-7 text-center lg:text-start'>
-                    <button type="button" className='text-sm md:text-xl font-semibold hover:shadow-xl bg-black text-white py-3 px-6 md:py-5 md:px-14 rounded-full hover:bg-hoblue' onClick={openModal}>
+                    <button type="button" className='text-sm md:text-xl font-semibold hover:shadow-xl bg-black text-white py-3 px-6 md:py-5 md:px-14 rounded-full hover:bg-grey' onClick={openModal}>
                         Get Started
                     </button>
                 </div>
@@ -133,7 +133,7 @@ const Getstartedform = () => {
                                             <button type="submit"
                                                 onClick={handleClick}
                                                 disabled={isDisabled}
-                                                className="py-3 px-5 text-sm disabled:opacity-50 font-medium w-full text-center text-white rounded-lg bg-blue focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Send message</button>
+                                                className="py-3 px-5 text-sm disabled:opacity-50 font-medium w-full text-center text-white rounded-lg bg-black focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Send message</button>
 
                                         </form>
 
