@@ -2,7 +2,7 @@
 export const postData = [
   {
     id: '1',
-    time: "5 min",
+    time: "6 min",
     heading: 'Cloud Architecture Design Success Stories',
     date: 'January 2, 2025',
     imgSrc: '/images/articles/fundamentals_cloud_architecture.jpg',
