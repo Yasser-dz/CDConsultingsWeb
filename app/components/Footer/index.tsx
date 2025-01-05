@@ -69,7 +69,7 @@ const footer = () => {
                                 <a href="mailto:info@cdconsultings.com" className="ml-2">info@cdconsultings.com</a>
                             </div>
                             <div className="flex items-center">
-                                <a href="tel:+1234567890" className="ml-2">+1 (234) 567-890</a>
+                                <a href="tel:+1234567890" className="ml-2">+1 (438) 937-5911</a>
                             </div>
                         </div>
                     </div>
